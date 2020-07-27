@@ -29,7 +29,7 @@
 </a>
 
 <a href="#">
-    <img src="svg/dev/frameworks/bootstrap.svg" alt="bootstrap" style="vertical-align:top; margin:6px 4px">
+    <img src="https://raw.githubusercontent.com/HelixFix/HelixFix/master/svg/dev/frameworks/bootstrap.svg" alt="bootstrap" style="vertical-align:top; margin:6px 4px">
 </a>
 
 <a href="#">
