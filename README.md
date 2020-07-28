@@ -38,7 +38,11 @@
 
 </p>
 
+<p align="center">
+  
 ![](https://komarev.com/ghpvc/?username=HelixFix)
+
+</p>
 
 <!--
 **HelixFix/HelixFix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
