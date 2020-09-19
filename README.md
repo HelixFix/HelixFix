@@ -20,8 +20,20 @@
     <img src="https://raw.githubusercontent.com/HelixFix/HelixFix/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">
 </a>
 
+<a href="#">  
+    <img src="https://raw.githubusercontent.com/HelixFix/HelixFix/master/svg/dev/languages/css3.svg" alt="html" style="vertical-align:top; margin:4px">
+</a>
+
+<a href="#">  
+    <img src="https://raw.githubusercontent.com/HelixFix/HelixFix/master/svg/dev/languages/sass.svg" alt="html" style="vertical-align:top; margin:4px">
+</a>
+
 <a href="#">
     <img src="https://raw.githubusercontent.com/HelixFix/HelixFix/master/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
+</a>
+
+<a href="#">  
+    <img src="https://raw.githubusercontent.com/HelixFix/HelixFix/master/svg/dev/languages/php.svg" alt="html" style="vertical-align:top; margin:4px">
 </a>
 
 <a href="#">
